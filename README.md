@@ -54,3 +54,59 @@
 </p>
 
 ---
+
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biseshghimire243-cyber&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+  # 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=biseshghimire243-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/YOUR-FACEBOOK/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📚 Library Management System | HTML, CSS, JavaScript, Node.js & MySQL |
+| 🌍 Explore Nepal | Tourism website with district search |
+| 🎉 Event Planning Website | Responsive event booking website |
+| ☕ Cafe Finder | Python Flask + MySQL |
+| 🩸 Blood Donation System | Web application |
+| 🍴 Cloud Kitchen | Restaurant management system |
+
+---
+
+

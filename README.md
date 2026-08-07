@@ -24,3 +24,33 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mysql,git,github,vscode" />
 
 </p>
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night"/>
+
+</p>
+
+---

@@ -79,7 +79,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/bisesh-ghimire-8bba8a240?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+<a href="https://www.instagram.com/bishesh06_08?igsh=MW4zbGo1Z3A5d3JqZA==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 

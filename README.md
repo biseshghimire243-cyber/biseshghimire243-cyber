@@ -58,12 +58,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://protfolio-practice-psi.vercel.app/" />
-</p>
----
 
   # 👀 Profile Views
 

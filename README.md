@@ -102,7 +102,7 @@
 | 📚 Library Management System | HTML, CSS, JavaScript, Node.js & MySQL |
 | 🌍 Explore Nepal | Tourism website with district search |
 | 🎉 Event Planning Website | Responsive event booking website |
-| ☕ Cafe Finder | Python Flask + MySQL |
+| ☕ HospitalityNepal | Python Flask + MySQL |
 | 🩸 Blood Donation System | Web application |
 | 🍴 Cloud Kitchen | Restaurant management system |
 

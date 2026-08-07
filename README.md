@@ -13,7 +13,7 @@
 - 🌱 Currently learning **React & Node.js**
 - 💻 Passionate about Web Development
 - 🇳🇵 From Nepal
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **biseshghimire243@gmail.com**
 
 ---
 

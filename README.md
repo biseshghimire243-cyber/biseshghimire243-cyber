@@ -144,6 +144,8 @@
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/biseshghimire243-cyber/biseshghimire243-cyber/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>

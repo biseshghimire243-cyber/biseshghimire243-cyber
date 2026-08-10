@@ -1,167 +1,301 @@
-# 👋 Hi, I'm Bishesh Ghimire
+# 👋 Hey, I'm Bishesh Ghimire
 
-### 💻 Full-Stack Developer | B.Sc. CSIT Student | 🇳🇵 Nepal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;B.Sc.+CSIT+Student+%F0%9F%8E%93;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
+</p>
 
-> 🚀 Building web applications, learning new technologies, and turning ideas into reality through code.
+<p align="center">
+  <b>💻 Code • 🎨 Design • 🚀 Build • 🔥 Repeat</b>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Who Am I?
 
-🎓 **B.Sc. CSIT Student**
-🌱 Currently learning **React & Node.js**
-💻 Passionate about **Web Development**
-🇳🇵 Based in **Nepal**
-🔥 Interested in **Full-Stack Development & UI/UX**
-📫 **Email:** [biseshghimire243@gmail.com](mailto:biseshghimire243@gmail.com)
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│   👨‍💻  Bishesh Ghimire                     │
+│                                            │
+│   🎓  B.Sc. CSIT Student                   │
+│   🇳🇵  Developer from Nepal                │
+│                                            │
+│   💡  Turning ideas into applications      │
+│   🌱  Learning React & Node.js             │
+│   🚀  Exploring Full-Stack Development     │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+I'm a developer who enjoys **building things from scratch** and experimenting with new technologies.
+
+I like taking an idea such as:
+
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+💻 Code
+   ↓
+🐛 Debug
+   ↓
+🚀 Deploy
+   ↓
+🔥 Improve
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ My Developer Arsenal
 
-### 💻 Languages
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-### ⚛️ Frontend
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
-
-### 🚀 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🔧 Tools
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Things I've Built
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biseshghimire243-cyber&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Library Management
+
+A complete library management system for handling books, students and issued books.
+
+**Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `SQLite`
+
+</td>
+
+<td width="50%">
+
+### 🌍 Explore Nepal
+
+A tourism platform designed to explore Nepal's districts and tourist destinations.
+
+**Stack:**
+`HTML` `CSS` `JavaScript` `Node.js`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎉 Event Planning
+
+A responsive event discovery and booking platform.
+
+**Stack:**
+`HTML` `CSS` `JavaScript` `Node.js`
+
+</td>
+
+<td width="50%">
+
+### 🩸 Blood Donation System
+
+A web application designed to manage blood donation activities.
+
+**Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍴 Cloud Kitchen
+
+Restaurant and food-order management system.
+
+**Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
+
+</td>
+
+<td width="50%">
+
+### ☕ HospitalityNepal
+
+Hospitality management application.
+
+**Stack:**
+`Python` `Flask` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
+# 🧠 Currently In My Brain
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true" />
-</p>
+```javascript
+const bishesh = {
+    role: "Full Stack Developer",
+    education: "B.Sc. CSIT",
 
----
+    currentlyLearning: [
+        "React",
+        "Node.js",
+        "Express",
+        "REST APIs",
+        "Database Design"
+    ],
 
-## 📈 Contribution Graph
+    currentlyBuilding: [
+        "Web Applications",
+        "E-Commerce Systems",
+        "Interactive UI"
+    ],
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biseshghimire243-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biseshghimire243-cyber&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:biseshghimire243@gmail.com">
-    <img src="https://img.shields.io/badge/Email-biseshghimire243%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/biseshghimire243-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Bishesh%20Ghimire-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project                       | 📝 Description                                                       | 🛠️ Technologies               |
-| -------------------------------- | -------------------------------------------------------------------- | ------------------------------ |
-| 📚 **Library Management System** | Complete library management application                              | HTML, CSS, JS, Node.js, SQLite |
-| 🌍 **Explore Nepal**             | Tourism website featuring Nepal's districts and tourist destinations | HTML, CSS, JS, Node.js         |
-| 🎉 **Event Planning Website**    | Responsive event discovery and booking platform                      | HTML, CSS, JS, Node.js         |
-| ☕ **HospitalityNepal**           | Hospitality management application                                   | Python, Flask, MySQL           |
-| 🩸 **Blood Donation System**     | Web application for managing blood donation activities               | HTML, CSS, JS, Node.js, MySQL  |
-| 🍴 **Cloud Kitchen**             | Restaurant and food-order management system                          | HTML, CSS, JS, Node.js, MySQL  |
-
----
-
-## 💡 What I'm Working On
-
-```text
-🌱 Learning        → React & Node.js
-💻 Building        → Full-Stack Web Applications
-🗄️ Working With    → MySQL & SQLite
-🎨 Improving       → UI/UX & Responsive Design
-🚀 Goal            → Become a Professional Full-Stack Developer
+    goal: "Become a Professional Full-Stack Developer 🚀"
+};
 ```
 
 ---
 
-## 🎯 2026 Goals
+# 🔥 My Current Mission
 
-* 🚀 Build more full-stack projects
-* ⚛️ Become stronger with React
-* 🟢 Improve Node.js & Express skills
-* 🗄️ Master database design
-* ☁️ Learn deployment & cloud technologies
-* 🤝 Contribute to open-source projects
-* 💼 Prepare for a professional developer career
+```text
+                    🚀 LEVEL UP 🚀
+
+          ┌──────────────────────────┐
+          │      React               │
+          │        ████████░░  80%   │
+          │                          │
+          │      Node.js             │
+          │        ███████░░░  70%   │
+          │                          │
+          │      MySQL               │
+          │        ████████░░  80%   │
+          │                          │
+          │      UI/UX               │
+          │        ██████░░░░  60%   │
+          └──────────────────────────┘
+```
 
 ---
 
-## 🐍 Contribution Snake
+# 💻 Developer Terminal
 
-## 🐍 Contribution Snake
+```bash
+┌──(bishesh㉿github)-[~/projects]
+└─$ whoami
+
+Bishesh Ghimire
+
+┌──(bishesh㉿github)-[~/projects]
+└─$ cat mission.txt
+
+Build useful things.
+Learn every day.
+Write better code.
+Never stop improving.
+
+┌──(bishesh㉿github)-[~/projects]
+└─$ npm run life
+
+> coding...
+> learning...
+> debugging...
+> building...
+> deploying...
+
+✓ Process completed successfully 🚀
+```
+
+---
+
+# 🌌 Beyond The Code
+
+I believe great software is not just about writing code.
+
+It's about:
+
+```text
+🎨 Making it beautiful
+        +
+🧠 Making it useful
+        +
+⚡ Making it fast
+        +
+🔐 Making it reliable
+        =
+        🚀 Great Software
+```
+
+---
+
+# 🎯 2026 Roadmap
+
+| 🎯 Goal                          | Status      |
+| -------------------------------- | ----------- |
+| ⚛️ Master React                  | 🟡 Learning |
+| 🟢 Improve Node.js               | 🟡 Learning |
+| 🗄️ Master MySQL                 | 🟢 Active   |
+| 🚀 Build Full-Stack Apps         | 🟢 Active   |
+| ☁️ Learn Cloud & Deployment      | 🔵 Next     |
+| 🤝 Contribute to Open Source     | 🔵 Next     |
+| 💼 Become Professional Developer | 🔥 Mission  |
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biseshghimire243-cyber/biseshghimire243-cyber/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+<a href="mailto:biseshghimire243@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-biseshghimire243%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/biseshghimire243-cyber">
+<img src="https://img.shields.io/badge/GitHub-Bishesh%20Ghimire-181717?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🧩 Random Developer Thought
 
-> **"Code. Learn. Build. Repeat. 🚀"**
+> **"First make it work. Then make it right. Finally, make it awesome."** 🚀
 
 ---
 
 <p align="center">
-  ⭐ If you like my projects, consider giving them a star!
-</p>
 
-<p align="center">
-  <b>Made with ❤️ by Bishesh Ghimire</b>
+### ⭐ Thanks for visiting my profile!
+
+**If you find something interesting here, feel free to explore my repositories.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+
 </p>

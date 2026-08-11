@@ -7,11 +7,11 @@
 # 📊 My Coding Journey
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
+    alt="GitHub Contributions"
   />
+</p>
 
 </p>
 

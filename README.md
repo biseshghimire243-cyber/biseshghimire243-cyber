@@ -4,6 +4,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;B.Sc.+CSIT+Student+%F0%9F%8E%93;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
 </p>
 
+# 📊 My Coding Journey
+
+<p align="center">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
+
+</p>
+
 <p align="center">
   <b>💻 Code • 🎨 Design • 🚀 Build • 🔥 Repeat</b>
 </p>

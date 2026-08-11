@@ -4,28 +4,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;B.Sc.+CSIT+Student+%F0%9F%8E%93;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
 </p>
 
+<p align="center">
+  <b>💻 Code • 🎨 Design • 🚀 Build • 🔥 Repeat</b>
+</p>
+
+---
+
 # 📊 My Coding Journey
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
-    alt="GitHub Contributions"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
-</p>
-
 <p align="center">
-
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    alt="GitHub Contribution Graph"
   />
-
 </p>
 
 <p align="center">
-  <b>💻 Code • 🎨 Design • 🚀 Build • 🔥 Repeat</b>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
 </p>
 
 ---
@@ -72,25 +77,25 @@ I like taking an idea such as:
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -291,11 +296,11 @@ It's about:
 <p align="center">
 
 <a href="mailto:biseshghimire243@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-biseshghimire243%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-biseshghimire243%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/biseshghimire243-cyber">
-<img src="https://img.shields.io/badge/GitHub-Bishesh%20Ghimire-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Bishesh%20Ghimire-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -316,6 +321,6 @@ It's about:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
 
 </p>

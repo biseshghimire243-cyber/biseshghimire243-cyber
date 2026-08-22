@@ -11,9 +11,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biseshghimire243-cyber&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night&hide_border=true&area=true" /> </p> <br/>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=biseshghimire243-cyber&theme=tokyonight&no-frame=true&row=1&column=7" /> </p> <br/>
-# 🚀 `Things I've Built`
+#🚀 `Things I've Built`
 
 <div align="center">
 
@@ -166,7 +164,7 @@ A database-driven hospital management system for managing hospital information.
 
 <td width="50%" valign="top">
 
-## 🍽️ Cafe Finder
+## 🍽️  chiya guff
 
 A web application for discovering cafes and displaying cafe information.
 

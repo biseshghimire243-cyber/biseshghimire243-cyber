@@ -13,23 +13,6 @@
 
 ---
 
-# 📊 My Coding Journey
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biseshghimire243-cyber&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 # 🔥 GitHub Streak
 

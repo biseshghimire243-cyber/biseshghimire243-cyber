@@ -11,286 +11,178 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=biseshghimire243-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biseshghimire243-cyber&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=tokyo-night&hide_border=true&area=true" /> </p> <br/>
-#🚀 `Things I've Built`
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS                                -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+# 🚀 Things I've Built
 
-### 💻 A collection of projects I've built while learning, experimenting and solving real-world problems.
+<p align="center">
+  <i>From simple experiments to full-stack applications — here's what I've been building.</i>
+</p>
 
-</div>
-
----
+<br>
 
 <table>
 <tr>
+<td>
 
-<td width="50%" valign="top">
+<h3>📚 Library Management System</h3>
 
-## 📚 Library Management System
+A complete library system for managing books, students, issued books and library records.
 
-A complete library management application for managing books, students and issued books.
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> SQLite<br>
+<b>✨ Highlights:</b> Book Management • Student Management • Issue/Return • Search
 
-**✨ Features**
-- 📖 Book management
-- 👨‍🎓 Student management
-- 📤 Issue & return books
-- 🔍 Search functionality
-- 📊 Library records
-- 🗃️ SQLite database
+<br>
 
-**🛠️ Tech Stack**
+<h3>🌍 Explore Nepal</h3>
 
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express` `SQLite`
+A tourism platform focused on exploring Nepal's 77 districts, provinces and tourist destinations.
 
-</td>
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> 77 Districts • Tourist Places • Locations • Province Information
 
-<td width="50%" valign="top">
+<br>
 
-## 🌍 Explore Nepal
+<h3>🩸 Blood Donation System</h3>
 
-A tourism platform designed to explore **all 77 districts of Nepal** and their tourist destinations.
+A web application for managing blood donors, users, blood groups and donation activities.
 
-**✨ Features**
-- 🗺️ District exploration
-- 🏔️ Tourist destinations
-- 📍 Location information
-- 🖼️ Destination images
-- 🏛️ Province-wise organization
-- 📚 District descriptions
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🔐 Security:</b> JWT • bcrypt<br>
+<b>✨ Highlights:</b> Registration • Login • Donors • Blood Group Search
 
-**🛠️ Tech Stack**
+<br>
 
-`HTML` `CSS` `JavaScript`  
-`Node.js` `MySQL`
+<h3>🍴 Cloud Kitchen</h3>
 
-</td>
+A restaurant and food-order management system for managing food, customers and orders.
 
-</tr>
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Food Management • Orders • Customers • Order Tracking
 
-<tr>
+<br>
 
-<td width="50%" valign="top">
+<h3>🎉 Event Itahari</h3>
 
-## 🩸 Blood Donation System
+An event discovery and booking platform for finding events and managing user bookings.
 
-A web application designed to connect and manage blood donation activities.
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Event Listing • Search • Authentication • Booking
 
-**✨ Features**
-- 👤 User registration
-- 🔐 Login & authentication
-- 🩸 Blood donor management
-- 🔎 Blood group search
-- 📋 Donation records
-- 🔒 JWT authentication
+<br>
 
-**🛠️ Tech Stack**
+<h3>🏥 Hospital Management System</h3>
 
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express` `MySQL` `JWT`
+A database-driven application for managing hospital information, patients, doctors and appointments.
 
-</td>
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Doctors • Patients • Appointments • Hospital Records
 
-<td width="50%" valign="top">
+<br>
 
-## 🍴 Cloud Kitchen
+<h3>🍽️ Chiya Guff</h3>
 
-A restaurant and food-order management system.
+A cafe discovery application for finding cafes and viewing useful cafe information.
 
-**✨ Features**
-- 🍔 Food management
-- 🛒 Order management
-- 👤 Customer management
-- 💰 Order tracking
-- 🗃️ Database management
-- 📊 Restaurant records
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Cafe Discovery • Search • Cafe Information • Database Integration
 
-**🛠️ Tech Stack**
+<br>
 
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express` `MySQL`
+<h3>💰 Expense Tracker</h3>
 
-</td>
+A full-stack expense management application for tracking, filtering and analyzing personal expenses.
 
-</tr>
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> SQLite<br>
+<b>📊 Libraries:</b> Chart.js<br>
+<b>✨ Highlights:</b> Add • Edit • Delete • Search • Filters • Charts • Budget
 
-<tr>
+<br>
 
-<td width="50%" valign="top">
+<h3>🏨 HospitalityNepal</h3>
 
-## 🎉 Event Itahari
+A hospitality management application built to manage hospitality-related information.
 
-An event discovery and booking platform focused on finding and booking events.
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Hospitality Management • Information Management • Database
 
-**✨ Features**
-- 🎫 Event listing
-- 🔎 Event discovery
-- 👤 User registration
-- 🔐 Login system
-- 📅 Event booking
-- 📋 Booking management
+<br>
 
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 Hospital Management System
-
-A database-driven hospital management system for managing hospital information.
-
-**✨ Features**
-- 👨‍⚕️ Doctor management
-- 👩‍⚕️ Patient management
-- 📅 Appointment management
-- 🏥 Hospital records
-- 🗃️ Relational database
-- 🔍 Data management
-
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript`  
-`Node.js` `Express` `MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🍽️  chiya guff
-
-A web application for discovering cafes and displaying cafe information.
-
-**✨ Features**
-- ☕ Cafe discovery
-- 📍 Cafe information
-- 🔎 Search functionality
-- 🗃️ Database integration
-- 📊 Cafe records
-
-**🛠️ Tech Stack**
-
-`Python` `Flask` `MySQL`  
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💰 Expense Tracker
-
-A full-stack expense management application for tracking personal expenses.
-
-**✨ Features**
-- 💵 Add expenses
-- ✏️ Edit expenses
-- 🗑️ Delete expenses
-- 🔎 Search & filter
-- 📊 Expense summaries
-- 📈 Charts & analytics
-- 💰 Monthly budget
-
-**🛠️ Tech Stack**
-
-`Python` `Flask` `SQLite`  
-`HTML` `CSS` `JavaScript` `Chart.js`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏨 HospitalityNepal
-
-A hospitality management application built using Python and Flask.
-
-**✨ Features**
-- 🏨 Hospitality management
-- 🗃️ Database integration
-- 📋 Information management
-- 🔎 Data handling
-
-**🛠️ Tech Stack**
-
-`Python` `Flask` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🩹 Sajilo Sewa
+<h3>🩹 Sajilo Sewa</h3>
 
 A service-based web application designed to connect users with useful services.
 
-**✨ Features**
-- 👤 User management
-- 🔐 Authentication
-- 📋 Service management
-- 🔎 Service discovery
-- 🌐 REST API
+<b>🎨 Frontend:</b> React.js<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Users • Authentication • Services • REST API
 
-**🛠️ Tech Stack**
+<br>
 
-`React` `Node.js` `Express`  
-`JavaScript` `MySQL`
+<h3>📱 QR Code Generator</h3>
+
+A lightweight utility for generating QR codes from text, URLs and other information.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Client-side<br>
+<b>🗄️ Database:</b> None<br>
+<b>✨ Highlights:</b> URL QR • Text QR • Instant Generation
+
+<br>
+
+<h3>🏔️ Nepal Event & Tourism Projects</h3>
+
+Experimental applications focused on Nepal tourism, events, locations and local discovery.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript • React<br>
+<b>⚙️ Backend:</b> Node.js • Express.js • Flask<br>
+<b>🗄️ Database:</b> MySQL • SQLite<br>
+<b>✨ Highlights:</b> Tourism • Locations • Events • Local Services
+
+<br>
+
+<hr>
+
+<div align="center">
+
+### 📊 My Project Stack
+
+<br>
+
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
+
+`Node.js` `Express.js` `Python` `Flask`
+
+`MySQL` `SQLite` `Git` `GitHub`
+
+<br><br>
+
+<b>💡 Idea → 🎨 Design → 💻 Code → 🐛 Debug → 🚀 Build → 🔥 Improve</b>
+
+</div>
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📱 QR Code Generator
-
-A simple utility application for generating QR codes from user-provided information.
-
-**✨ Features**
-- 🔗 URL QR codes
-- 📝 Text QR codes
-- ⚡ Instant generation
-- 📥 Easy usage
-
-**🛠️ Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏔️ Event & Tourism Projects
-
-Various experimental projects focused on tourism, events and local services.
-
-**✨ Focus**
-
-- 🇳🇵 Nepal-based applications
-- 🗺️ Location-based information
-- 🎉 Event management
-- 🏨 Hospitality
-- 👥 User-focused interfaces
-
-**🛠️ Technologies**
-
-`HTML` `CSS` `JavaScript`  
-`React` `Node.js` `Python`
-
-</td>
-
-</tr>
-
 </table>
 
 ---

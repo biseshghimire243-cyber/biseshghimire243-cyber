@@ -1,34 +1,14 @@
 <h1 align="center">Hi there, I'm Bishesh Ghimire 👋</h1> <div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
-  height="165"
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
-  height="165"
-  alt="Top Languages"
-/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
+🧑‍💻 About Me
+🎓 B.Sc. CSIT student, passionate about building real-world applications
+🇳🇵 Based in Nepal
+💡 I turn ideas into working products, one commit at a time
+🌱 Currently deepening my skills in React and Node.js
+🚀 Exploring the full-stack development ecosystem
+⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 3 minutes
+<br/>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
 <div align="center">
 
 <table>
@@ -82,36 +62,6 @@
 </table>
 
 </div>
-
-</td>
-
-<td align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
-  width="500"
-  alt="GitHub Contribution Graph"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-🧑‍💻 About Me
-🎓 B.Sc. CSIT student, passionate about building real-world applications
-🇳🇵 Based in Nepal
-💡 I turn ideas into working products, one commit at a time
-🌱 Currently deepening my skills in React and Node.js
-🚀 Exploring the full-stack development ecosystem
-⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 3 minutes
-<br/>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                       PROJECTS                                -->
 <!-- ═════════════════════════════════════════════════════════════ -->

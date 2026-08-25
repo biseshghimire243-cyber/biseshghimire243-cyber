@@ -29,11 +29,59 @@
 
 <td align="center">
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
+  height="165"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
 <img
   src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
   height="165"
   alt="GitHub Streak"
 />
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
+  width="500"
+  alt="GitHub Contribution Graph"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 </td>
 

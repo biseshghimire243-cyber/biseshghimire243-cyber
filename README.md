@@ -30,7 +30,7 @@
 <td align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
   height="165"
   alt="GitHub Streak"
 />

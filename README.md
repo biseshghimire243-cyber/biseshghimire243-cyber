@@ -40,11 +40,7 @@
 
 <td align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
-  height="165"
-  alt="GitHub Streak"
-/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 

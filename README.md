@@ -39,9 +39,9 @@
 <tr>
 
 <td align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
+<img
+  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber..."
+/>
 </td>
 
 <td align="center">

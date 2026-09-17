@@ -37,11 +37,13 @@
 <tr>
 
 <td align="center">
+
 <img
-  src="https://streak-stats.demolab.com?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
-  height="180"
+  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=transparent&hide_border=true"
+  height="165"
   alt="GitHub Streak"
 />
+
 </td>
 
 <td align="center">

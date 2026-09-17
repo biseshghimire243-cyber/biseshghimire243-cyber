@@ -11,27 +11,25 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
 <div align="center">
 
+<div align="center">
+
 <table>
 <tr>
 
 <td align="center">
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
-  height="165"
+  height="180"
   alt="GitHub Stats"
 />
-
 </td>
 
 <td align="center">
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
-  height="165"
+  height="180"
   alt="Top Languages"
 />
-
 </td>
 
 </tr>
@@ -40,20 +38,18 @@
 
 <td align="center">
 <img
-  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=transparent&hide_border=true"
-  height="165"
+  src="https://streak-stats.demolab.com?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
+  height="180"
   alt="GitHub Streak"
 />
 </td>
 
 <td align="center">
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
-  width="500"
+  height="180"
   alt="GitHub Contribution Graph"
 />
-
 </td>
 
 </tr>

@@ -59,15 +59,16 @@
 
 </div>
 <!-- ═════════════════════════════════════════════════════════════ -->
-
 <!--                         PROJECTS                              -->
-
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 # 🚀 Featured Projects
 
 <p align="center">
-  <i>A collection of full-stack applications, web platforms, and development projects I've built while learning and exploring software development.</i>
+  <i>
+    A collection of full-stack applications, web platforms, management systems,
+    and development projects built through hands-on learning and experimentation.
+  </i>
 </p>
 
 <br>
@@ -76,107 +77,252 @@
 <tr>
 <td>
 
-<h3>🎓 Education Hub</h3>
+<!-- ====================== EDUCATION HUB ====================== -->
 
-An educational web platform designed to provide students with an organized and user-friendly environment for accessing educational resources and information. The project focuses on creating an interactive learning experience with structured content, intuitive navigation, and student-focused features.
+<h3>🎓 EducationHub</h3>
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Educational Resources • Student Platform • Information Management • Responsive UI
+A full-stack education platform designed to provide students with a structured
+environment for accessing courses, educational resources, and learning-related
+information. The system focuses on organized content, user management, and a
+responsive student experience.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Courses • Student Platform • Resources • Authentication • Information Management
 
 <br>
 
-<h3>📚 Library Management System</h3>
-
-A full-stack library management application designed to simplify the management of books, students, and borrowing records. It provides an organized system for handling library operations and keeping track of issued and returned books.
-
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> SQLite<br> <b>✨ Highlights:</b> Book Management • Student Management • Issue/Return • Search • Records
-
-<br>
+<!-- ====================== EXPLORE NEPAL ====================== -->
 
 <h3>🌍 Explore Nepal</h3>
 
-A tourism platform built to help users explore Nepal's 77 districts, provinces, tourist destinations, and important locations. The project focuses on presenting Nepal's geographical and tourism information through an interactive web experience.
+An interactive tourism platform created to explore Nepal's 77 districts,
+provinces, tourist destinations, and important locations. The project focuses
+on presenting Nepal's geographical and tourism information through a modern
+web interface.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> 77 Districts • Tourist Places • Locations • Province Information
-
-<br>
-
-<h3>🩸 Blood Donation System</h3>
-
-A full-stack blood donation platform designed to manage donors, users, blood groups, and donation-related activities. The system includes authentication and database functionality to help organize donor information and make blood group searching easier.
-
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>🔐 Security:</b> JWT • bcrypt<br> <b>✨ Highlights:</b> Registration • Login • Donor Management • Blood Group Search
+<b>🎨 Frontend:</b> React.js • HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> 77 Districts • Provinces • Tourist Places • Locations • Interactive UI
 
 <br>
 
-<h3>🍴 Cloud Kitchen</h3>
+<!-- ====================== FOODSHALA ====================== -->
 
-A full-stack food ordering and restaurant management application designed to manage food items, customers, and orders. The project provides functionality for organizing menus, handling customer information, and managing the complete order process.
+<h3>🍴 FoodShala — Cloud Kitchen</h3>
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Food Management • Orders • Customers • Menu • Order Tracking
+A full-stack food ordering platform designed for a cloud kitchen environment.
+The system manages food items, customers, authentication, carts, and orders
+while providing a complete online ordering workflow.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🔐 Security:</b> JWT • bcrypt<br>
+<b>✨ Highlights:</b> Menu • Food Details • Cart • Checkout • Orders • Authentication • Profiles
 
 <br>
+
+<!-- ====================== EVENT ITAHARI ====================== -->
 
 <h3>🎉 Event Itahari</h3>
 
-An event discovery and booking platform focused on helping users discover local events and manage their bookings. The application combines event listings, authentication, search functionality, and booking features.
+A local event discovery and booking platform designed to help users discover
+events and manage their bookings. The application combines event listings,
+authentication, search functionality, and booking management.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Event Listing • Search • Authentication • Event Booking
-
-<br>
-
-<h3>🏥 Hospital Management System</h3>
-
-A database-driven hospital management application designed to organize important hospital information and records. The system focuses on managing patients, doctors, appointments, and other hospital-related data.
-
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Patients • Doctors • Appointments • Hospital Records • CRUD Operations
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🔐 Security:</b> JWT • bcrypt<br>
+<b>✨ Highlights:</b> Event Listing • Search • Authentication • Booking • Event Management
 
 <br>
 
-<h3>🍽️ Chiya Guff</h3>
+<!-- ====================== BLOOD DONATION ====================== -->
 
-A cafe discovery platform designed to help users find cafes and explore useful information about different locations. The project demonstrates database integration, search functionality, dynamic content, and Flask-based backend development.
+<h3>🩸 Blood Donation System</h3>
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Python • Flask<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Cafe Discovery • Search • Cafe Information • Database Integration
+A full-stack blood donation management platform for organizing donor
+information, blood groups, users, and donation-related activities. The system
+provides authentication and database functionality for managing donor records.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🔐 Security:</b> JWT • bcrypt<br>
+<b>✨ Highlights:</b> Donor Registration • Login • Blood Group Search • User Management • Records
 
 <br>
+
+<!-- ====================== WEARHOUSE ====================== -->
+
+<h3>👕 WearHouse — Clothing Store</h3>
+
+A full-stack e-commerce platform for browsing and managing clothing products.
+The project focuses on product management, shopping workflows, cart
+functionality, and database-driven e-commerce operations.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Products • Categories • Shopping Cart • Orders • Users • E-Commerce
+
+<br>
+
+<!-- ====================== SHOPNOW ====================== -->
+
+<h3>🛍️ ShopNow</h3>
+
+An e-commerce web application inspired by modern online shopping platforms.
+The project explores product management, user authentication, shopping
+functionality, and backend API development.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Product Management • Authentication • Shopping Cart • Admin Features • REST API
+
+<br>
+
+<!-- ====================== BMW JOURNEY ====================== -->
+
+<h3>🚗 BMW Journey — Wheel on Road</h3>
+
+A BMW-inspired travel and journey web experience focused on combining
+automotive design with travel discovery. The project demonstrates modern
+frontend design, backend integration, and database-driven content.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🎨 Design:</b> Custom BMW-inspired UI<br>
+<b>✨ Highlights:</b> Travel • Destinations • Automotive Design • Dynamic Content
+
+<br>
+
+<!-- ====================== LIBRARY ====================== -->
+
+<h3>📚 Library Management System</h3>
+
+A full-stack library management system designed to simplify the management of
+books, students, borrowing records, and returns. The application provides
+structured CRUD operations and search functionality.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> SQLite<br>
+<b>✨ Highlights:</b> Book Management • Student Management • Issue/Return • Search • Records
+
+<br>
+
+<!-- ====================== EXPENSE TRACKER ====================== -->
 
 <h3>💰 Expense Tracker</h3>
 
-A full-stack expense management application built for recording, organizing, filtering, and analyzing personal expenses. The application includes budgeting tools and interactive charts to help users understand their spending.
+A personal expense management application built to record, organize, filter,
+and analyze spending. The project includes budgeting functionality and
+interactive visualizations for understanding expenses.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Python • Flask<br> <b>🗄️ Database:</b> SQLite<br> <b>📊 Libraries:</b> Chart.js<br> <b>✨ Highlights:</b> Add • Edit • Delete • Search • Filters • Charts • Budget Management
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> SQLite<br>
+<b>📊 Libraries:</b> Chart.js<br>
+<b>✨ Highlights:</b> Add • Edit • Delete • Search • Filters • Charts • Budget Management
 
 <br>
+
+<!-- ====================== HOSPITAL ====================== -->
+
+<h3>🏥 Hospital Management System</h3>
+
+A database-driven management application designed to organize hospital
+information and records. The system focuses on managing patients, doctors,
+appointments, and related healthcare data.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Patients • Doctors • Appointments • Records • CRUD Operations
+
+<br>
+
+<!-- ====================== CHIYA GUFF ====================== -->
+
+<h3>🍽️ Chiya Guff</h3>
+
+A cafe discovery platform designed to help users explore cafes and access
+information about different locations. The project demonstrates Flask backend
+development, database integration, search functionality, and dynamic content.
+
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Cafe Discovery • Search • Cafe Information • Database Integration
+
+<br>
+
+<!-- ====================== HOSPITALITY NEPAL ====================== -->
 
 <h3>🏨 HospitalityNepal</h3>
 
-A hospitality-focused web application designed to organize and present hospitality-related information through a simple and accessible interface. The project demonstrates backend development, database integration, and dynamic information management.
+A hospitality-focused web application designed to organize and present
+hospitality-related information through an accessible digital platform.
+The project demonstrates backend development, database integration, and
+dynamic information management.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Python • Flask<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> Hospitality Management • Information Management • Database Integration
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Python • Flask<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>✨ Highlights:</b> Hospitality • Information Management • Database Integration • Dynamic Content
 
 <br>
+
+<!-- ====================== SAJILO SEWA ====================== -->
 
 <h3>🩹 Sajilo Sewa</h3>
 
-A service-based web application designed to connect users with useful services through a modern and interactive platform. The project demonstrates React frontend development, REST API integration, authentication, and database-driven functionality.
+A service-based web application designed to connect users with useful services
+through a modern interface. The project demonstrates React development,
+REST API integration, authentication, and database-driven functionality.
 
-<b>🎨 Frontend:</b> React.js<br> <b>⚙️ Backend:</b> Node.js • Express.js<br> <b>🗄️ Database:</b> MySQL<br> <b>✨ Highlights:</b> User Management • Authentication • Services • REST API
+<b>🎨 Frontend:</b> React.js<br>
+<b>⚙️ Backend:</b> Node.js • Express.js<br>
+<b>🗄️ Database:</b> MySQL<br>
+<b>🔐 Security:</b> Authentication<br>
+<b>✨ Highlights:</b> User Management • Services • Authentication • REST API • Database Integration
 
 <br>
+
+<!-- ====================== QR GENERATOR ====================== -->
 
 <h3>📱 QR Code Generator</h3>
 
-A lightweight web utility that allows users to quickly generate QR codes from URLs, text, and other information. The application focuses on simplicity, fast generation, and an easy-to-use interface.
+A lightweight browser-based utility that allows users to generate QR codes
+from URLs, text, and other information. The project focuses on simplicity,
+instant generation, and an easy-to-use interface.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br> <b>⚙️ Backend:</b> Client-side<br> <b>🗄️ Database:</b> None<br> <b>✨ Highlights:</b> URL QR • Text QR • Instant Generation • Simple UI
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript<br>
+<b>⚙️ Backend:</b> Client-side<br>
+<b>🗄️ Database:</b> None<br>
+<b>✨ Highlights:</b> URL QR • Text QR • Instant Generation • Simple UI
 
 <br>
 
+<!-- ====================== NEPAL TOURISM ====================== -->
+
 <h3>🏔️ Nepal Tourism & Events</h3>
 
-A collection of experimental projects focused on Nepal's tourism, events, locations, and local discovery. These projects explore different approaches to building location-based platforms, tourism applications, and event-related services.
+A collection of experimental projects focused on Nepal's tourism, events,
+locations, and local discovery. These projects explore different approaches
+to building tourism platforms, location-based applications, and event services.
 
-<b>🎨 Frontend:</b> HTML • CSS • JavaScript • React<br> <b>⚙️ Backend:</b> Node.js • Express.js • Flask<br> <b>🗄️ Database:</b> MySQL • SQLite<br> <b>✨ Highlights:</b> Tourism • Locations • Events • Local Services
+<b>🎨 Frontend:</b> HTML • CSS • JavaScript • React.js<br>
+<b>⚙️ Backend:</b> Node.js • Express.js • Flask<br>
+<b>🗄️ Database:</b> MySQL • SQLite<br>
+<b>✨ Highlights:</b> Tourism • Locations • Events • Local Services • Discovery
 
 <br>
 
@@ -184,25 +330,25 @@ A collection of experimental projects focused on Nepal's tourism, events, locati
 </tr>
 </table>
 
-<br>
-
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,mysql,sqlite,git,github" />
 </p>
 
 <p align="center">
-  <i>💻 Building projects • 📚 Learning new technologies • 🚀 Improving every day</i>
+  <i>
+    💻 Building projects • 📚 Learning new technologies • 🚀 Improving every day
+  </i>
 </p>
 
-<hr>
+---
 
 <div align="center">
 
-### 📊 My Project Stack
+## 📊 My Project Stack
 
 <br>
 
@@ -214,13 +360,9 @@ A collection of experimental projects focused on Nepal's tourism, events, locati
 
 <br><br>
 
-<b>💡 Idea → 🎨 Design → 💻 Code → 🐛 Debug → 🚀 Build → 🔥 Improve</b>
+<b>💡 Idea → 🎨 Design → 💻 Code → 🐛 Debug → 🧪 Test → 🚀 Deploy → 🔥 Improve</b>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -228,6 +370,18 @@ A collection of experimental projects focused on Nepal's tourism, events, locati
 
 ### 🚀 From small experiments to full-stack applications
 
-`💡 Idea` → `🎨 Design` → `💻 Development` → `🧪 Testing` → `🚀 Deployment`
+`💡 Idea`
+→
+`🎨 Design`
+→
+`💻 Development`
+→
+`🧪 Testing`
+→
+`🚀 Deployment`
 
-</div> <i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i> </p>
+<br><br>
+
+<i>⭐ Thanks for stopping by — feel free to explore my repositories and connect!</i>
+
+</div>

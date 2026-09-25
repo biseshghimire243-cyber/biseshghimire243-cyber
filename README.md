@@ -293,6 +293,49 @@ and personal spending records.
 </p>
 <br>
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                    DEVELOPER TERMINAL                        -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<h2>🖥️ Developer Terminal</h2>
+
+<div align="center">
+
+
+┌──────────────────────────────────────────────────────────────┐
+│  bishesh@github:~$ ./profile.sh                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Initializing developer profile...                           │
+│                                                              │
+│  [✓] Loading identity.................. Bishesh Ghimire       │
+│  [✓] Loading education................. B.Sc. CSIT            │
+│  [✓] Loading location.................. Nepal 🇳🇵             │
+│                                                              │
+│  ─────────────────── TECH STACK ───────────────────           │
+│                                                              │
+│  [✓] Frontend.......................... React.js              │
+│  [✓] Backend........................... Node.js               │
+│  [✓] Programming...................... JavaScript / Python   │
+│  [✓] Database.......................... MySQL / SQLite        │
+│  [✓] Tools............................. Git / GitHub          │
+│                                                              │
+│  ─────────────────── CURRENT STATUS ─────────────────         │
+│                                                              │
+│  STATUS       : 🟢 ONLINE                                    │
+│  MODE         : 🚀 BUILDING                                  │
+│  CURRENT_TASK : Learning something new                        │
+│  COFFEE       : ☕ REQUIRED                                   │
+│  BUGS         : 🐛 HUNTING                                   │
+│                                                              │
+│  ─────────────────────────────────────────────────────        │
+│                                                              │
+│  bishesh@github:~$ echo "Let's build something awesome!"     │
+│                                                              │
+│  > Let's build something awesome! 🚀                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
 <h2>🤖 Bishesh.exe</h2>
 
 <div align="center">

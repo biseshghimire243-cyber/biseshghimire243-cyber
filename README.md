@@ -5,7 +5,10 @@
 <h1 align="center">Hi, I'm Bishesh Ghimire 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · B.Sc. CSIT Student · Nepal 🇳🇵</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;B.Sc.+CSIT+Student;React+%7C+Node.js+%7C+Python;Building+Something+New+Every+Day"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">

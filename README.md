@@ -53,11 +53,8 @@ I enjoy turning ideas into practical web applications, experimenting with new te
 </p>
 
    <td width="40%" align="center" valign="middle">
-  <img
-    src="./assets/profile.jpg"
-    width="100%"
-    alt="Developer Image"
-  />
+  <img src="./assets/robot.jpg" width="180" alt="Robot Image" />
+
 </td>
   </tr>
 </table>

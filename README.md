@@ -172,30 +172,22 @@
 ---
 
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                    TECHNOLOGIES & FOOTER                     -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-## 🛠️ Tech I Work With
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,flask,mysql,sqlite,git,github" />
-
-<br><br>
-
-<b>💡 Build → 💻 Learn → 🐛 Debug → 🚀 Improve</b>
-
-<br><br>
+### 🚀 Building ideas into reality.
 
 <i>
-💻 Building real projects • 📚 Learning every day • 🚀 Growing as a developer
+Full-Stack Developer • B.Sc. CSIT Student • Lifelong Learner
 </i>
 
 <br><br>
 
-⭐ <b>Thanks for visiting my profile!</b>
+⭐ <b>Thanks for stopping by!</b>
+
+</div>
+
+---
 
 </div>

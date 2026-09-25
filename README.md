@@ -47,63 +47,6 @@
 
 <br>
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                            -->
-<!-- ═════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-
-<td>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
-  height="180"
-  alt="GitHub Statistics"
-/>
-</td>
-
-<td>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
-  height="180"
-  alt="Top Languages"
-/>
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-<img
-  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
-  height="180"
-  alt="GitHub Streak"
-/>
-</td>
-
-<td>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
-  height="180"
-  alt="GitHub Contribution Graph"
-/>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTIONS                            -->
-<!-- ═════════════════════════════════════════════════════════════ -->
 
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                            -->

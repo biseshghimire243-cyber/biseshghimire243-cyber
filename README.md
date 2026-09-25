@@ -105,15 +105,57 @@
 <!--                     CONTRIBUTIONS                            -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-## 🔥 Contribution Activity
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                            -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=github-compact&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
+  height="180"
+  alt="GitHub Statistics"
+/>
+</td>
+
+<td align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
+  height="180"
+  alt="Top Languages"
+/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img
+  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
+  height="180"
+  alt="GitHub Streak"
+/>
+</td>
+
+<td align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
+  height="180"
+  alt="GitHub Profile Details"
+/>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
 

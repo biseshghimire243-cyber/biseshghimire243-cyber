@@ -316,6 +316,87 @@ break, fix, and build again.
 
 </div>
 
+<h2>🖥️ Developer Control Panel</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🟢
+<b>STATUS</b>
+
+<br/>
+
+`ONLINE`
+
+<br/>
+
+⚡ Coding
+
+</td>
+
+<td align="center" width="25%">
+
+### ☕
+<b>FUEL</b>
+
+<br/>
+
+`COFFEE`
+
+<br/>
+
+∞ Cups
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐛
+<b>BUGS</b>
+
+<br/>
+
+`FOUND`
+
+<br/>
+
+🔧 Fixing...
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+<b>MODE</b>
+
+<br/>
+
+`BUILDING`
+
+<br/>
+
+🔥 Always
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Initializing+Developer+Mode...;Loading+React...+%E2%9C%93;Loading+Node.js...+%E2%9C%93;Connecting+to+MySQL...+%E2%9C%93;Compiling+Ideas...+%E2%9C%93;Ready+to+Build+%F0%9F%9A%80"
+  alt="Developer Terminal"
+/>
+
+</div>
+
+<br/>
+
 
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                               -->

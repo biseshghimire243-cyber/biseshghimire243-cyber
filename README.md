@@ -180,11 +180,7 @@ I enjoy turning ideas into practical web applications, experimenting with new te
 
 <br/>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=dark&hide_border=true"
-  width="70%"
-  alt="GitHub Streak"
-/>
+
 
 </div>
 

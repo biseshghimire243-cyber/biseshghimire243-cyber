@@ -32,27 +32,18 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
+<p align="center">
+  <b>B.Sc. CSIT Student & Full-Stack Developer</b> 🇳🇵
+</p>
 
-<td width="55%" valign="top">
+<p align="center">
+  I enjoy building web applications, experimenting with new technologies,
+  and turning ideas into practical digital solutions.
+</p>
 
-🎓 B.Sc. CSIT Student  
-💻 Full-Stack Web Development  
-🌱 Currently learning React & Node.js  
-🚀 Building real-world applications  
-🇳🇵 Based in Nepal  
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,github&perline=3" />
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <code>React</code> · <code>Node.js</code> · <code>Python</code> · <code>MySQL</code>
+</p>
 
 <br>
 

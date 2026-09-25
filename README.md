@@ -30,21 +30,37 @@
 <!--                         ABOUT ME                              -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+## ABOUT ME
 
-<p align="center">
-  <b>B.Sc. CSIT Student & Full-Stack Developer</b> 🇳🇵
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
+### 👨‍💻 Who I Am
+
+<p>
+I'm <b>Bishesh Ghimire</b>, a B.Sc. CSIT student from Nepal with a passion for web development and software engineering.
 </p>
 
-<p align="center">
-  I enjoy building web applications, experimenting with new technologies,
-  and turning ideas into practical digital solutions.
+<p>
+I enjoy turning ideas into practical web applications, experimenting with new technologies, and continuously improving my development skills through real-world projects.
 </p>
 
-<p align="center">
-  <code>React</code> · <code>Node.js</code> · <code>Python</code> · <code>MySQL</code>
+<p>
+🌱 Currently learning <b>React & Node.js</b><br/>
+💻 Building <b>Full-Stack Web Applications</b><br/>
+🚀 Exploring modern web technologies
 </p>
 
+   <td width="40%" align="center" valign="middle">
+  <img
+    src="./assets/profile.jpg"
+    width="100%"
+    alt="Developer Image"
+  />
+</td>
+  </tr>
+</table>
 <br>
 
 

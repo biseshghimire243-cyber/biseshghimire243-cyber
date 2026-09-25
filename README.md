@@ -58,26 +58,60 @@
 </table>
 
 </div>
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                              -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 ## 🚀 FEATURED PROJECTS
 
 ```text
 🎓 EducationHub
-🌍 Explore Nepal
-🍴 FoodShala
-🎉 Event Itahari
-🩸 Blood Donation System
-👕 WearHouse
-🛍️ ShopNow
-🚗 BMW Journey
-📚 Library Management System
-💰 Expense Tracker
-🏥 Hospital Management System
-🍽️ Chiya Guff
-🏨 HospitalityNepal
-🩹 Sajilo Sewa
-📱 QR Code Generator
-🏔️ Nepal Tourism & Events
+   Education & Learning Platform • Node.js • Express • MySQL
 
+🌍 Explore Nepal
+   77 Districts & Tourism Platform • React • Node.js • MySQL
+
+🍴 FoodShala
+   Food Ordering & Cloud Kitchen • Node.js • Express • MySQL
+
+🎉 Event Itahari
+   Event Discovery & Booking Platform • Node.js • Express • MySQL
+
+🩸 Blood Donation System
+   Donor & Blood Group Management • Node.js • Express • MySQL
+
+👕 WearHouse
+   Clothing & E-Commerce Platform • HTML • CSS • JavaScript • Node.js • MySQL
+
+🛍️ ShopNow
+   E-Commerce & Product Management • Node.js • Express • MySQL
+
+🚗 BMW Journey
+   Travel & Automotive Web Experience • HTML • CSS • JavaScript • Node.js
+
+📚 Library Management System
+   Books, Students & Borrowing Management • Node.js • Express • SQLite
+
+💰 Expense Tracker
+   Expense & Budget Management • Python • Flask • SQLite • Chart.js
+
+🏥 Hospital Management System
+   Patient, Doctor & Appointment Management • Node.js • Express • MySQL
+
+🍽️ Chiya Guff
+   Cafe Discovery Platform • Python • Flask • MySQL
+
+🏨 HospitalityNepal
+   Hospitality Information Platform • Python • Flask • MySQL
+
+🩹 Sajilo Sewa
+   Service-Based Web Application • React • Node.js • Express • MySQL
+
+📱 QR Code Generator
+   QR Generation Utility • HTML • CSS • JavaScript
+
+🏔️ Nepal Tourism & Events
+   Tourism, Events & Local Discovery Projects • React • Node.js • Flask
 
 <p align="center">
   <i>

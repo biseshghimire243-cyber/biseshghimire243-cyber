@@ -279,6 +279,31 @@ and personal spending records.
   <i>More projects and experiments are available across my repositories.</i>
 </p>
 <br>
+
+<h2>🧩 How I Build</h2>
+
+<div align="center">
+
+`💡 Idea`
+&nbsp; → &nbsp;
+`🎨 Design`
+&nbsp; → &nbsp;
+`💻 Build`
+&nbsp; → &nbsp;
+`🧪 Test`
+&nbsp; → &nbsp;
+`🚀 Improve`
+
+<br/><br/>
+
+<i>
+I believe the best way to learn development is to build,
+break, fix, and build again.
+</i>
+
+</div>
+
+
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                               -->
 <!-- ═════════════════════════════════════════════════════════════ -->

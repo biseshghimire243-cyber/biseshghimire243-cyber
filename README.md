@@ -120,116 +120,164 @@ I enjoy turning ideas into practical web applications, experimenting with new te
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         PROJECTS                              -->
+<!--                       FEATURED PROJECTS                       -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
+
+<p>
+A collection of projects I've built while learning, experimenting, and
+developing my full-stack skills.
+</p>
 
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Technology</th>
+<td width="50%" valign="top">
+
+<h3>🎓 EducationHub</h3>
+
+<p>
+A complete education platform for managing courses, learning resources,
+and student-related information.
+</p>
+
+<b>Tech:</b> Node.js · Express · MySQL
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌍 Explore Nepal</h3>
+
+<p>
+A tourism platform showcasing Nepal's 77 districts, destinations,
+and places worth exploring.
+</p>
+
+<b>Tech:</b> React · Node.js · MySQL
+
+</td>
 </tr>
 
 <tr>
-<td>🎓 <b>EducationHub</b></td>
-<td>Education and learning management platform</td>
-<td>Node.js · Express · MySQL</td>
+<td width="50%" valign="top">
+
+<h3>🍴 FoodShala</h3>
+
+<p>
+A food ordering and cloud-kitchen platform with menu, cart, checkout,
+orders, and user authentication.
+</p>
+
+<b>Tech:</b> Node.js · Express · MySQL
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛍️ ShopNow</h3>
+
+<p>
+An e-commerce platform with product management, shopping cart,
+authentication, and order functionality.
+</p>
+
+<b>Tech:</b> Node.js · Express · MySQL
+
+</td>
 </tr>
 
 <tr>
-<td>🌍 <b>Explore Nepal</b></td>
-<td>Tourism platform covering Nepal's 77 districts</td>
-<td>React · Node.js · MySQL</td>
+<td width="50%" valign="top">
+
+<h3>👕 WearHouse</h3>
+
+<p>
+A clothing e-commerce website focused on product browsing,
+shopping, and online store functionality.
+</p>
+
+<b>Tech:</b> HTML · CSS · JavaScript · Node.js · MySQL
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎉 Event Itahari</h3>
+
+<p>
+An event discovery and management platform designed to help users
+explore and manage local events.
+</p>
+
+<b>Tech:</b> Node.js · Express · MySQL
+
+</td>
 </tr>
 
 <tr>
-<td>🍴 <b>FoodShala</b></td>
-<td>Food ordering and cloud kitchen platform</td>
-<td>Node.js · Express · MySQL</td>
+<td width="50%" valign="top">
+
+<h3>🩸 Blood Donation System</h3>
+
+<p>
+A donor management platform for organizing blood groups,
+donor information, and donation-related records.
+</p>
+
+<b>Tech:</b> Node.js · Express · MySQL
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚗 BMW Journey</h3>
+
+<p>
+An automotive and travel experience inspired by BMW's visual identity,
+combining modern design with travel content.
+</p>
+
+<b>Tech:</b> HTML · CSS · JavaScript · Node.js
+
+</td>
 </tr>
 
 <tr>
-<td>🎉 <b>Event Itahari</b></td>
-<td>Event discovery and booking system</td>
-<td>Node.js · Express · MySQL</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🩸 <b>Blood Donation System</b></td>
-<td>Donor and blood group management platform</td>
-<td>Node.js · Express · MySQL</td>
-</tr>
+<h3>📚 Library Management</h3>
 
-<tr>
-<td>👕 <b>WearHouse</b></td>
-<td>Clothing and e-commerce platform</td>
-<td>HTML · CSS · JS · Node.js · MySQL</td>
-</tr>
+<p>
+A management system for handling books, students, borrowing,
+and library records.
+</p>
 
-<tr>
-<td>🛍️ <b>ShopNow</b></td>
-<td>E-commerce and product management system</td>
-<td>Node.js · Express · MySQL</td>
-</tr>
+<b>Tech:</b> Node.js · Express · SQLite
 
-<tr>
-<td>🚗 <b>BMW Journey</b></td>
-<td>Automotive and travel web experience</td>
-<td>HTML · CSS · JS · Node.js</td>
-</tr>
+</td>
 
-<tr>
-<td>📚 <b>Library Management</b></td>
-<td>Books, students and borrowing management</td>
-<td>Node.js · Express · SQLite</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>💰 <b>Expense Tracker</b></td>
-<td>Expense, budget and spending management</td>
-<td>Python · Flask · SQLite</td>
-</tr>
+<h3>💰 Expense Tracker</h3>
 
-<tr>
-<td>🏥 <b>Hospital Management</b></td>
-<td>Patient, doctor and appointment management</td>
-<td>Node.js · Express · MySQL</td>
-</tr>
+<p>
+A simple application for tracking expenses, budgets,
+and personal spending records.
+</p>
 
-<tr>
-<td>🍽️ <b>Chiya Guff</b></td>
-<td>Cafe discovery and information platform</td>
-<td>Python · Flask · MySQL</td>
-</tr>
+<b>Tech:</b> Python · Flask · SQLite
 
-<tr>
-<td>🏨 <b>HospitalityNepal</b></td>
-<td>Hospitality information management platform</td>
-<td>Python · Flask · MySQL</td>
-</tr>
-
-<tr>
-<td>🩹 <b>Sajilo Sewa</b></td>
-<td>Service-based web application</td>
-<td>React · Node.js · MySQL</td>
-</tr>
-
-<tr>
-<td>📱 <b>QR Code Generator</b></td>
-<td>Browser-based QR generation utility</td>
-<td>HTML · CSS · JavaScript</td>
-</tr>
-
-<tr>
-<td>🏔️ <b>Nepal Tourism & Events</b></td>
-<td>Tourism, events and local discovery</td>
-<td>React · Node.js · Flask</td>
+</td>
 </tr>
 
 </table>
 
+<br/>
+
+<p align="center">
+  <i>More projects and experiments are available across my repositories.</i>
+</p>
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->

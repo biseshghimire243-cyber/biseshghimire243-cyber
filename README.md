@@ -171,15 +171,6 @@
 
 ---
 
-## 🛠️ Project Stack
-
-<p align="center">
-
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`  
-`Node.js` `Express.js` `Python` `Flask`  
-`MySQL` `SQLite` `Git` `GitHub`
-
-</p>
 
 <p align="center">
 <b>💡 Idea → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Deployment</b>

@@ -35,6 +35,16 @@
 
 <br>
 
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="Contribution Animation"
+/>
+
+</div>
+
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                              -->
 <!-- ═════════════════════════════════════════════════════════════ -->

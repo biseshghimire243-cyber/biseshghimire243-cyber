@@ -1,14 +1,49 @@
-<h1 align="center">Hi there, I'm Bishesh Ghimire 👋</h1> <div align="center">
-🧑‍💻 About Me
-🎓 B.Sc. CSIT student, passionate about building real-world applications
-🇳🇵 Based in Nepal
-💡 I turn ideas into working products, one commit at a time
-🌱 Currently deepening my skills in React and Node.js
-🚀 Exploring the full-stack development ecosystem
-⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 3 minutes
-<br/>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>
+<h1 align="center">Hi, I'm Bishesh Ghimire 👋</h1>
+
+<p align="center">
+  <b>Full-Stack Developer • B.Sc. CSIT Student • Nepal 🇳🇵</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/biseshghimire243-cyber">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+
+🎓 B.Sc. CSIT Student  
+💻 Full-Stack Web Developer  
+🌱 Learning React & Node.js  
+🚀 Building real-world applications  
+🇳🇵 Based in Nepal  
+💡 Turning ideas into working products  
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛠️ Technologies</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <i>Building • Learning • Experimenting • Improving 🚀</i>
+</p>
 <div align="center">
 
 <div align="center">

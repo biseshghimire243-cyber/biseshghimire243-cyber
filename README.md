@@ -279,15 +279,47 @@ and personal spending records.
   <i>More projects and experiments are available across my repositories.</i>
 </p>
 <br>
-
 <!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
+<!--                          FOOTER                               -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <b>💻 Build · Learn · Create · Improve 🚀</b>
+<br/>
+
+<div align="center">
+
+---
+
+<h3>👋 Thanks for stopping by!</h3>
+
+<p>
+  <i>
+    I'm always building something new, learning something different,
+    and looking for the next idea to turn into a project.
+  </i>
 </p>
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
+<br/>
+
+<p>
+  <b>💡 Think.</b>
+  &nbsp; <b>💻 Build.</b>
+  &nbsp; <b>🧪 Experiment.</b>
+  &nbsp; <b>🚀 Improve.</b>
 </p>
+
+<br/>
+
+<a href="https://github.com/biseshghimire243-cyber">
+  <img
+    src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore My Projects"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+  © 2026 Bishesh Ghimire · Built with curiosity & code ☕
+</sub>
+
+</div>

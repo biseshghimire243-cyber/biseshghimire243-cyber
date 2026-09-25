@@ -24,6 +24,12 @@
   </a>
 </p>
 
+<h3>🛠️ Technologies</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" />
+</p>
+
 <br>
 
 <!-- ═════════════════════════════════════════════════════════════ -->

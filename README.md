@@ -1,3 +1,7 @@
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                                -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <h1 align="center">Hi, I'm Bishesh Ghimire 👋</h1>
 
 <p align="center">
@@ -22,30 +26,56 @@
 
 <br>
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                              -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 ## 👨‍💻 About Me
 
-```text
-🎓 B.Sc. CSIT Student
-💻 Full-Stack Web Development
-🌱 Currently learning React & Node.js
-🚀 Building real-world projects
-🇳🇵 Nepal
-<div align="center">
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+🎓 B.Sc. CSIT Student  
+💻 Full-Stack Web Development  
+🌱 Currently learning React & Node.js  
+🚀 Building real-world applications  
+🇳🇵 Based in Nepal  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,mysql,git,github&perline=3" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                            -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center">
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biseshghimire243-cyber&theme=onedark"
   height="180"
-  alt="GitHub Stats"
+  alt="GitHub Statistics"
 />
 </td>
 
-<td align="center">
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biseshghimire243-cyber&theme=onedark"
   height="180"
@@ -57,17 +87,15 @@
 
 <tr>
 
-<td align="center">
-
+<td>
 <img
-  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=transparent&hide_border=true"
-  height="165"
+  src="https://streak-stats.demolab.com/?user=biseshghimire243-cyber&theme=onedark&hide_border=true"
+  height="180"
   alt="GitHub Streak"
 />
-
 </td>
 
-<td align="center">
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biseshghimire243-cyber&theme=onedark"
   height="180"
@@ -79,6 +107,25 @@
 </table>
 
 </div>
+
+<br>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTIONS                            -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biseshghimire243-cyber&theme=github-compact&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+<br>
+
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                         PROJECTS                              -->
 <!-- ═════════════════════════════════════════════════════════════ -->
@@ -95,120 +142,111 @@
 <tr>
 <td>🎓 <b>EducationHub</b></td>
 <td>Education and learning management platform</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>🌍 <b>Explore Nepal</b></td>
 <td>Tourism platform covering Nepal's 77 districts</td>
-<td>React • Node.js • MySQL</td>
+<td>React · Node.js · MySQL</td>
 </tr>
 
 <tr>
 <td>🍴 <b>FoodShala</b></td>
 <td>Food ordering and cloud kitchen platform</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>🎉 <b>Event Itahari</b></td>
 <td>Event discovery and booking system</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>🩸 <b>Blood Donation System</b></td>
 <td>Donor and blood group management platform</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>👕 <b>WearHouse</b></td>
 <td>Clothing and e-commerce platform</td>
-<td>HTML • CSS • JS • Node.js • MySQL</td>
+<td>HTML · CSS · JS · Node.js · MySQL</td>
 </tr>
 
 <tr>
 <td>🛍️ <b>ShopNow</b></td>
 <td>E-commerce and product management system</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>🚗 <b>BMW Journey</b></td>
 <td>Automotive and travel web experience</td>
-<td>HTML • CSS • JS • Node.js</td>
+<td>HTML · CSS · JS · Node.js</td>
 </tr>
 
 <tr>
 <td>📚 <b>Library Management</b></td>
 <td>Books, students and borrowing management</td>
-<td>Node.js • Express • SQLite</td>
+<td>Node.js · Express · SQLite</td>
 </tr>
 
 <tr>
 <td>💰 <b>Expense Tracker</b></td>
-<td>Expense, budget and spending analysis system</td>
-<td>Python • Flask • SQLite</td>
+<td>Expense, budget and spending management</td>
+<td>Python · Flask · SQLite</td>
 </tr>
 
 <tr>
 <td>🏥 <b>Hospital Management</b></td>
 <td>Patient, doctor and appointment management</td>
-<td>Node.js • Express • MySQL</td>
+<td>Node.js · Express · MySQL</td>
 </tr>
 
 <tr>
 <td>🍽️ <b>Chiya Guff</b></td>
 <td>Cafe discovery and information platform</td>
-<td>Python • Flask • MySQL</td>
+<td>Python · Flask · MySQL</td>
 </tr>
 
 <tr>
 <td>🏨 <b>HospitalityNepal</b></td>
 <td>Hospitality information management platform</td>
-<td>Python • Flask • MySQL</td>
+<td>Python · Flask · MySQL</td>
 </tr>
 
 <tr>
 <td>🩹 <b>Sajilo Sewa</b></td>
 <td>Service-based web application</td>
-<td>React • Node.js • MySQL</td>
+<td>React · Node.js · MySQL</td>
 </tr>
 
 <tr>
 <td>📱 <b>QR Code Generator</b></td>
-<td>Simple browser-based QR generation utility</td>
-<td>HTML • CSS • JavaScript</td>
+<td>Browser-based QR generation utility</td>
+<td>HTML · CSS · JavaScript</td>
 </tr>
 
 <tr>
 <td>🏔️ <b>Nepal Tourism & Events</b></td>
-<td>Tourism, events and local discovery projects</td>
-<td>React • Node.js • Flask</td>
+<td>Tourism, events and local discovery</td>
+<td>React · Node.js · Flask</td>
 </tr>
 
 </table>
 
----
-
-
 <br>
 
-<div align="center">
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-### 🚀 Building ideas into reality.
+<p align="center">
+  <b>💻 Build · Learn · Create · Improve 🚀</b>
+</p>
 
-<i>
-Full-Stack Developer • B.Sc. CSIT Student • Lifelong Learner
-</i>
-
-<br><br>
-
-⭐ <b>Thanks for stopping by!</b>
-
-</div>
-
----
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>

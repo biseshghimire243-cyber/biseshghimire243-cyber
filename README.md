@@ -1,11 +1,39 @@
-<h1 align="center">Hi there, I'm Bishesh Ghimire 👋</h1> <div align="center">
-🧑‍💻 About Me
-🎓 B.Sc. CSIT student, passionate about building real-world applications
-🇳🇵 Based in Nepal
-💡 I turn ideas into working products, one commit at a time
-🌱 Currently deepening my skills in React and Node.js
-🚀 Exploring the full-stack development ecosystem
-⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 3 minutes
+<div align="center">
+
+# BISHESH GHIMIRE
+
+<img src="YOUR_HEADER_GIF_OR_IMAGE_URL" width="200" alt="Profile GIF" />
+
+---
+
+### **FULL-STACK DEVELOPER • BSc. CSIT STUDENT**
+
+*Improving with every project*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biseshghimire243-cyber)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+<br/>
+
+---
+
+## ABOUT ME
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I'm Bishesh, a BSc. CSIT student from Nepal, currently exploring web development.</p>
+      <p>I enjoy building web applications, experimenting with ideas, and figuring out how things work. I'm constantly learning and improving, with a focus on creating interfaces that are simple, useful, and enjoyable to use.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="YOUR_SIDE_IMAGE_OR_GIF_URL" width="100%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 <br/>
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma,tailwind&theme=dark" /> </p> <br/>

@@ -172,54 +172,30 @@
 ---
 
 
-<p align="center">
-<b>💡 Idea → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Deployment</b>
-</p>
-
-<p align="center">
-  <i>
-    💻 Building projects • 📚 Learning new technologies • 🚀 Improving every day
-  </i>
-</p>
-
----
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                    TECHNOLOGIES & FOOTER                     -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 My Project Stack
+## 🛠️ Tech I Work With
 
 <br>
 
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
-
-`Node.js` `Express.js` `Python` `Flask`
-
-`MySQL` `SQLite` `Git` `GitHub`
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,flask,mysql,sqlite,git,github" />
 
 <br><br>
 
-<b>💡 Idea → 🎨 Design → 💻 Code → 🐛 Debug → 🧪 Test → 🚀 Deploy → 🔥 Improve</b>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 From small experiments to full-stack applications
-
-`💡 Idea`
-→
-`🎨 Design`
-→
-`💻 Development`
-→
-`🧪 Testing`
-→
-`🚀 Deployment`
+<b>💡 Build → 💻 Learn → 🐛 Debug → 🚀 Improve</b>
 
 <br><br>
 
-<i>⭐ Thanks for stopping by — feel free to explore my repositories and connect!</i>
+<i>
+💻 Building real projects • 📚 Learning every day • 🚀 Growing as a developer
+</i>
+
+<br><br>
+
+⭐ <b>Thanks for visiting my profile!</b>
 
 </div>

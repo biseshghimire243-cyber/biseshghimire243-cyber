@@ -293,29 +293,27 @@ and personal spending records.
 </p>
 <br>
 
-<h2>🧩 How I Build</h2>
+<h2>🤖 Bishesh.exe</h2>
 
 <div align="center">
 
-`💡 Idea`
-&nbsp; → &nbsp;
-`🎨 Design`
-&nbsp; → &nbsp;
-`💻 Build`
-&nbsp; → &nbsp;
-`🧪 Test`
-&nbsp; → &nbsp;
-`🚀 Improve`
-
-<br/><br/>
-
-<i>
-I believe the best way to learn development is to build,
-break, fix, and build again.
-</i>
-
-</div>
-
+```text
+┌──────────────────────────────────────────────┐
+│              BISHESH.EXE v2.0                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  👨‍💻 Developer      : Bishesh Ghimire        │
+│  🎓 Education       : B.Sc. CSIT             │
+│  📍 Location        : Nepal                  │
+│  ⚛️ Frontend        : React                  │
+│  🟢 Backend         : Node.js                │
+│  🐍 Other           : Python                 │
+│  🗄️ Database        : MySQL / SQLite         │
+│  ☕ Fuel            : Coffee                  │
+│  🧠 Current Task    : Building               │
+│  🚀 Status          : ONLINE                 │
+│                                              │
+└──────────────────────────────────────────────┘
 <h2>🖥️ Developer Control Panel</h2>
 
 <div align="center">

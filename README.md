@@ -62,56 +62,128 @@
 <!--                         PROJECTS                              -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-## 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
-```text
-🎓 EducationHub
-   Education & Learning Platform • Node.js • Express • MySQL
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technology</th>
+</tr>
 
-🌍 Explore Nepal
-   77 Districts & Tourism Platform • React • Node.js • MySQL
+<tr>
+<td>🎓 <b>EducationHub</b></td>
+<td>Education and learning management platform</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-🍴 FoodShala
-   Food Ordering & Cloud Kitchen • Node.js • Express • MySQL
+<tr>
+<td>🌍 <b>Explore Nepal</b></td>
+<td>Tourism platform covering Nepal's 77 districts</td>
+<td>React • Node.js • MySQL</td>
+</tr>
 
-🎉 Event Itahari
-   Event Discovery & Booking Platform • Node.js • Express • MySQL
+<tr>
+<td>🍴 <b>FoodShala</b></td>
+<td>Food ordering and cloud kitchen platform</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-🩸 Blood Donation System
-   Donor & Blood Group Management • Node.js • Express • MySQL
+<tr>
+<td>🎉 <b>Event Itahari</b></td>
+<td>Event discovery and booking system</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-👕 WearHouse
-   Clothing & E-Commerce Platform • HTML • CSS • JavaScript • Node.js • MySQL
+<tr>
+<td>🩸 <b>Blood Donation System</b></td>
+<td>Donor and blood group management platform</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-🛍️ ShopNow
-   E-Commerce & Product Management • Node.js • Express • MySQL
+<tr>
+<td>👕 <b>WearHouse</b></td>
+<td>Clothing and e-commerce platform</td>
+<td>HTML • CSS • JS • Node.js • MySQL</td>
+</tr>
 
-🚗 BMW Journey
-   Travel & Automotive Web Experience • HTML • CSS • JavaScript • Node.js
+<tr>
+<td>🛍️ <b>ShopNow</b></td>
+<td>E-commerce and product management system</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-📚 Library Management System
-   Books, Students & Borrowing Management • Node.js • Express • SQLite
+<tr>
+<td>🚗 <b>BMW Journey</b></td>
+<td>Automotive and travel web experience</td>
+<td>HTML • CSS • JS • Node.js</td>
+</tr>
 
-💰 Expense Tracker
-   Expense & Budget Management • Python • Flask • SQLite • Chart.js
+<tr>
+<td>📚 <b>Library Management</b></td>
+<td>Books, students and borrowing management</td>
+<td>Node.js • Express • SQLite</td>
+</tr>
 
-🏥 Hospital Management System
-   Patient, Doctor & Appointment Management • Node.js • Express • MySQL
+<tr>
+<td>💰 <b>Expense Tracker</b></td>
+<td>Expense, budget and spending analysis system</td>
+<td>Python • Flask • SQLite</td>
+</tr>
 
-🍽️ Chiya Guff
-   Cafe Discovery Platform • Python • Flask • MySQL
+<tr>
+<td>🏥 <b>Hospital Management</b></td>
+<td>Patient, doctor and appointment management</td>
+<td>Node.js • Express • MySQL</td>
+</tr>
 
-🏨 HospitalityNepal
-   Hospitality Information Platform • Python • Flask • MySQL
+<tr>
+<td>🍽️ <b>Chiya Guff</b></td>
+<td>Cafe discovery and information platform</td>
+<td>Python • Flask • MySQL</td>
+</tr>
 
-🩹 Sajilo Sewa
-   Service-Based Web Application • React • Node.js • Express • MySQL
+<tr>
+<td>🏨 <b>HospitalityNepal</b></td>
+<td>Hospitality information management platform</td>
+<td>Python • Flask • MySQL</td>
+</tr>
 
-📱 QR Code Generator
-   QR Generation Utility • HTML • CSS • JavaScript
+<tr>
+<td>🩹 <b>Sajilo Sewa</b></td>
+<td>Service-based web application</td>
+<td>React • Node.js • MySQL</td>
+</tr>
 
-🏔️ Nepal Tourism & Events
-   Tourism, Events & Local Discovery Projects • React • Node.js • Flask
+<tr>
+<td>📱 <b>QR Code Generator</b></td>
+<td>Simple browser-based QR generation utility</td>
+<td>HTML • CSS • JavaScript</td>
+</tr>
+
+<tr>
+<td>🏔️ <b>Nepal Tourism & Events</b></td>
+<td>Tourism, events and local discovery projects</td>
+<td>React • Node.js • Flask</td>
+</tr>
+
+</table>
+
+---
+
+## 🛠️ Project Stack
+
+<p align="center">
+
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`  
+`Node.js` `Express.js` `Python` `Flask`  
+`MySQL` `SQLite` `Git` `GitHub`
+
+</p>
+
+<p align="center">
+<b>💡 Idea → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Deployment</b>
+</p>
 
 <p align="center">
   <i>

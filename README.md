@@ -332,11 +332,6 @@ to building tourism platforms, location-based applications, and event services.
 
 ---
 
-# 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,flask,mysql,sqlite,git,github" />
-</p>
 
 <p align="center">
   <i>

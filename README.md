@@ -51,10 +51,8 @@ I enjoy turning ideas into practical web applications, experimenting with new te
 💻 Building <b>Full-Stack Web Applications</b><br/>
 🚀 Exploring modern web technologies
 </p>
-
-   <td width="40%" align="center" valign="middle">
-  <img src="./assets/robot.jpg" width="180" alt="Robot Image" />
-
+<td width="40%" align="center" valign="middle">
+  <img src="./assets/profile.jpg" width="100%" alt="Developer Image" />
 </td>
   </tr>
 </table>

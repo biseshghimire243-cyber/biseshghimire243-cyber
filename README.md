@@ -132,167 +132,63 @@ I enjoy turning ideas into practical web applications, experimenting with new te
 
 <br>
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                       -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+<h2>🎮 GitHub Arcade</h2>
 
-<h2>🚀 Featured Projects</h2>
-
-<p>
-A collection of projects I've built while learning, experimenting, and
-developing my full-stack skills.
-</p>
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<h3>🎓 EducationHub</h3>
+<td align="center" width="33%">
 
-<p>
-A complete education platform for managing courses, learning resources,
-and student-related information.
-</p>
+### 🟢
 
-<b>Tech:</b> Node.js · Express · MySQL
+<b>CODING</b>
+
+<br/><br/>
+
+`ACTIVE`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔥
+
+<b>STREAK</b>
+
+<br/><br/>
+
+`KEEP GOING`
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3>🌍 Explore Nepal</h3>
+### 🚀
 
-<p>
-A tourism platform showcasing Nepal's 77 districts, destinations,
-and places worth exploring.
-</p>
+<b>BUILDING</b>
 
-<b>Tech:</b> React · Node.js · MySQL
+<br/><br/>
+
+`IN PROGRESS`
 
 </td>
+
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🍴 FoodShala</h3>
-
-<p>
-A food ordering and cloud-kitchen platform with menu, cart, checkout,
-orders, and user authentication.
-</p>
-
-<b>Tech:</b> Node.js · Express · MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛍️ ShopNow</h3>
-
-<p>
-An e-commerce platform with product management, shopping cart,
-authentication, and order functionality.
-</p>
-
-<b>Tech:</b> Node.js · Express · MySQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>👕 WearHouse</h3>
-
-<p>
-A clothing e-commerce website focused on product browsing,
-shopping, and online store functionality.
-</p>
-
-<b>Tech:</b> HTML · CSS · JavaScript · Node.js · MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎉 Event Itahari</h3>
-
-<p>
-An event discovery and management platform designed to help users
-explore and manage local events.
-</p>
-
-<b>Tech:</b> Node.js · Express · MySQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🩸 Blood Donation System</h3>
-
-<p>
-A donor management platform for organizing blood groups,
-donor information, and donation-related records.
-</p>
-
-<b>Tech:</b> Node.js · Express · MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚗 BMW Journey</h3>
-
-<p>
-An automotive and travel experience inspired by BMW's visual identity,
-combining modern design with travel content.
-</p>
-
-<b>Tech:</b> HTML · CSS · JavaScript · Node.js
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>📚 Library Management</h3>
-
-<p>
-A management system for handling books, students, borrowing,
-and library records.
-</p>
-
-<b>Tech:</b> Node.js · Express · SQLite
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💰 Expense Tracker</h3>
-
-<p>
-A simple application for tracking expenses, budgets,
-and personal spending records.
-</p>
-
-<b>Tech:</b> Python · Flask · SQLite
-
-</td>
-</tr>
-
 </table>
 
 <br/>
 
-<p align="center">
-  <i>More projects and experiments are available across my repositories.</i>
-</p>
-<br>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=biseshghimire243-cyber&theme=dark&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
+</div>
+
+<br/>
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                    DEVELOPER TERMINAL                        -->
 <!-- ═════════════════════════════════════════════════════════════ -->

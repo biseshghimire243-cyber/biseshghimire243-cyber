@@ -16,10 +16,10 @@
   <a href="https://github.com/biseshghimire243-cyber">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/bisesh-ghimire-8bba8a240/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://protfolio-practice-psi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>

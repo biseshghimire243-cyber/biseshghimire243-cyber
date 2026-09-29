@@ -58,7 +58,7 @@
 ### 👨‍💻 Who I Am
 
 <p>
-I'm <b>Bishesh Ghimire</b>, a B.Sc. CSIT student from Nepal with a passion for web development and software engineering.
+I'm <b>Bishesh Ghimire</b>, a B.Sc. CSIT student from Nepal with a passion for web development and software engineering. i am currently purseing and make it wider in knowldge 
 </p>
 
 <p>

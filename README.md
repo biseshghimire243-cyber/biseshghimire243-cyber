@@ -62,7 +62,7 @@ I'm <b>Bishesh Ghimire</b>, a B.Sc. CSIT student from Nepal with a passion for w
 </p>
 
 <p>
-I enjoy turning ideas into practical web applications, experimenting with new technologies, and continuously improving my development skills through real-world projects.
+I enjoy solving problems through code, building real-world applications, and learning new technologies by putting them into practice.
 </p>
 
 <p>

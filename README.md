@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Building web applications, learning new technologies and advance one, and turning ideas into real projects.
+  Building web applications, learning new technologies and advance one, and turning ideas into real projectsssss.
 </p>
 
 <p align="center">
